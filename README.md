@@ -43,9 +43,9 @@ Here are some of the technologies and tools I work with or am currently learning
 
 ---
 
+<!--
 ### 📂 Featured Projects
 
-<!--
 _(This is where you'll add your projects once you build them! Follow the format suggested in the article)_
 
 **Example Placeholder:**
@@ -55,7 +55,6 @@ _(This is where you'll add your projects once you build them! Follow the format 
 > A [brief description - e.g., real-time polling app] built to explore [goal - e.g., WebSockets in Rust]. Utilized Rust (Axum), React, and WebSockets.
 > **Highlight:** Implemented [specific feature - e.g., efficient state synchronization] / Learned [key takeaway - e.g., managing async tasks in Rust].
 
-<!-- Add 1-3 of your best projects here once ready --!>
 -->
 
 ---
