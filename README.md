@@ -12,7 +12,6 @@ Here are some of the technologies and tools I work with or am currently learning
 
 **Backend:**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) _(Learning)_
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -21,7 +20,6 @@ Here are some of the technologies and tools I work with or am currently learning
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) _(TypeScript)_
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) _(TypeScript)_
 
-<!-- Add Gin/Echo here once you start using them for Go -->
 <!-- Add Diesel/SQLx here once you start using them -->
 
 **Frontend:**
